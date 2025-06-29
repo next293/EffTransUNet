@@ -1,0 +1,7 @@
+la_005.nii.gz
+la_007.nii.gz
+la_014.nii.gz
+la_017.nii.gz
+la_022.nii.gz
+la_024.nii.gz
+la_026.nii.gz
